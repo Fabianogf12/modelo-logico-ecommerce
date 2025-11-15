@@ -24,7 +24,7 @@
 
 
 
-# 🛒 Modelo Lógico de E-commerce
+# 🛒 Modelo Lógico do Banco de Dados para E-commerce
 
 Este repositório apresenta o **modelo lógico de um sistema de E-commerce**, desenvolvido como parte de um estudo sobre estruturação de banco de dados relacional.  
 O objetivo é representar entidades, relacionamentos e regras de negócio comuns em operações de compras online.
@@ -82,13 +82,18 @@ O sistema contém as seguintes entidades principais:
 4. Selecione o arquivo `modelo-logico-ecommerce.mwb`
 5. Pronto! O modelo lógico estará disponível para visualização e edição.
 
+<p align="center">
+  <img src="./abrindo-modelo.gif" width="700px" />
+</p>
+
 ---
 ## 🚀 Próximos Passos
 
-- Criar o modelo físico do banco
-- Gerar o script SQL automático pelo Workbench
-- Popular tabelas com dados fictícios
-- Criar visualizações e consultas SQL para análise
+- Criar modelo lógico no formato DER.
+- Gerar scripts SQL automaticamente a partir do Workbench.
+- Popular as tabelas com dados de teste (mock data).
+- Criar consultas SQL para análise e relatórios.
+
 
 
 ---
@@ -105,9 +110,9 @@ O sistema contém as seguintes entidades principais:
 
 Este projeto foi criado para:
 
-- Ajudar estudantes a entenderem modelagem lógica  
-- Servir como base para implementação futura de um banco físico  
-- Demonstrar boas práticas de modelagem relacional  
+- Demonstrar boas práticas de modelagem de dados.
+- Criar um modelo escalável para estudos e portfólio.
+
 
 ---
 
@@ -128,4 +133,5 @@ For more details, please refer to the **LICENSE** file in the root of this repos
 ---
 
 
-💬 *Fique à vontade para sugerir melhorias, abrir issues ou utilizar este modelo nos seus estudos!*
+📌 *Projeto desenvolvido para fins educativos e de portfólio. Sugestões e melhorias são sempre bem-vindas!*  
+
