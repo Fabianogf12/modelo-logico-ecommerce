@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="A_digital_graphic_design_visual_for_an_e-commerce_.png" width="100%" />
+  <img src="Banner Eco.png" width="100%" alt="Banner do projeto E-commerce"/>
 </p>
+
 
 # 🛒 Modelo Lógico de E-commerce
 
