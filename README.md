@@ -3,6 +3,18 @@
 </p>
 
 
+
+<p align="center">
+  <img src="Banner-Eco.png" width="850px">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+  <img src="https://img.shields.io/badge/Database-MySQL-00758F?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model-MySQL%20Workbench-blue?logo=mysql" />
+</p>
+
 ## 📑 Índice
 - [Modelo Lógico de E-commerce](#modelo-lógico-de-e-commerce)
 - [Visão Geral do Modelo](#visão-geral-do-modelo)
