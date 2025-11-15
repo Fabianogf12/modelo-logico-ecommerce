@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="A_digital_graphic_design_visual_for_an_e-commerce_.png" width="100%" />
+</p>
+
 # 🛒 Modelo Lógico de E-commerce
 
 Este repositório apresenta o **modelo lógico de um sistema de E-commerce**, desenvolvido como parte de um estudo sobre estruturação de banco de dados relacional.  
