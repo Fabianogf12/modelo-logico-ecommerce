@@ -3,7 +3,7 @@
 </p>
 
 
-## 📑 Table of Contents
+## 📑 Índice
 - [Modelo Lógico de E-commerce](#modelo-lógico-de-e-commerce)
 - [Visão Geral do Modelo](#visão-geral-do-modelo)
 - [Descrição Geral](#descrição-geral)
