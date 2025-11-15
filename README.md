@@ -3,6 +3,19 @@
 </p>
 
 
+## 📑 Table of Contents
+- [Modelo Lógico de E-commerce](#modelo-lógico-de-e-commerce)
+- [Visão Geral do Modelo](#visão-geral-do-modelo)
+- [Descrição Geral](#descrição-geral)
+- [Estrutura do Banco de Dados](#estrutura-do-banco-de-dados)
+- [Arquivos do Repositório](#arquivos-do-repositório)
+- [Como abrir o projeto](#como-abrir-o-projeto)
+- [Próximos Passos](#próximos-passos)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Objetivo](#objetivo)
+- [Autor](#autor)
+- [License](#license)
+
 
 
 # 🛒 Modelo Lógico de E-commerce
