@@ -51,7 +51,26 @@ O sistema contém as seguintes entidades principais:
 
 - **modelo-logico-ecommerce.mwb** — arquivo MySQL Workbench  
 - **modelo-e-commerce.png** — imagem do modelo lógico  
-- **README.md** — documentação do projeto  
+- **README.md** — documentação do projeto
+
+---
+
+## 🧰 Como abrir o projeto
+
+1. Faça o download do arquivo `.mwb`
+2. Abra o MySQL Workbench
+3. Vá em **File > Open Model**
+4. Selecione o arquivo `modelo-logico-ecommerce.mwb`
+5. Pronto! O modelo lógico estará disponível para visualização e edição.
+
+---
+## 🚀 Próximos Passos
+
+- Criar o modelo físico do banco
+- Gerar o script SQL automático pelo Workbench
+- Popular tabelas com dados fictícios
+- Criar visualizações e consultas SQL para análise
+
 
 ---
 
