@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner Eco.png" width="100%" alt="Banner do projeto E-commerce"/>
+  <img src="Banner-Eco.png" width="850px">
 </p>
 
 
