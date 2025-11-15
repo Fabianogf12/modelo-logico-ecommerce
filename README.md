@@ -100,4 +100,13 @@ Este projeto foi criado para:
 
 ---
 
+
+## 📝 License
+
+This project is licensed under the MIT License.  
+For more details, please refer to the **LICENSE** file in the root of this repository.
+
+---
+
+
 💬 *Fique à vontade para sugerir melhorias, abrir issues ou utilizar este modelo nos seus estudos!*
