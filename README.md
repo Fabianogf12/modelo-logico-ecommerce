@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="Banner-Eco.png" width="850px">
+  <img src="./Banner-Eco.png" width="850px" />
 </p>
+
 
 
 # 🛒 Modelo Lógico de E-commerce
