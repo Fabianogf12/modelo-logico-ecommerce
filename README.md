@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./demo.gif" width="650px" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
   <img src="https://img.shields.io/badge/License-MIT-blue" />
   <img src="https://img.shields.io/badge/Database-MySQL-00758F?logo=mysql&logoColor=white" />
