@@ -71,11 +71,14 @@ O sistema contém as seguintes entidades principais:
 
 ---
 
-## 📂 Arquivos do Repositório
+## 📁 Arquivos do Repositório
 
-- **modelo-logico-ecommerce.mwb** — arquivo MySQL Workbench  
-- **modelo-e-commerce.png** — imagem do modelo lógico  
-- **README.md** — documentação do projeto
+- **Banner Eco.png** — banner principal do projeto  
+- **demo.gif** — demonstração animada de abertura do modelo no Workbench  
+- **modelo-ecommerce.mwb** — arquivo editável do MySQL Workbench  
+- **modelo-ecommerce.png** — imagem estática do modelo lógico  
+- **LICENSE** — licença MIT do projeto  
+- **README.md** — documentação do repositório
 
 ---
 
