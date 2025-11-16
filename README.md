@@ -2,9 +2,7 @@
   <img src="./Banner Eco.png" width="850px" />
 </p>
 
-<p align="center">
-  <img src="./demo.gif" width="650px" />
-</p>
+<img src="./demo.gif" width="450px" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
