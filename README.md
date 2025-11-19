@@ -75,7 +75,7 @@ O sistema contém as seguintes entidades principais:
 
 ---
 
-## 🧩 Cardinalidades do Modelo
+## Cardinalidades do Modelo
 
 Cliente 1:N Pedido – um cliente pode realizar vários pedidos.
 
