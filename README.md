@@ -40,7 +40,7 @@ O objetivo é representar entidades, relacionamentos e regras de negócio comuns
 
 ---
 
-## 📌 Visão Geral do Modelo
+##  Visão Geral do Modelo
 
 O diagrama abaixo mostra a estrutura completa do banco:
 
@@ -48,7 +48,7 @@ O diagrama abaixo mostra a estrutura completa do banco:
 
 ---
 
-## 📚 Descrição Geral
+##  Descrição Geral
 
 O modelo foi construído com foco em:
 
@@ -60,7 +60,7 @@ O modelo foi construído com foco em:
 
 ---
 
-## 🗂️ Estrutura do Banco de Dados
+##  Estrutura do Banco de Dados
 
 O sistema contém as seguintes entidades principais:
 
@@ -93,7 +93,7 @@ Vendedor N:N Produto – vendedores podem disponibilizar vários produtos.
 
 ---
 
-## 📁 Arquivos do Repositório
+##  Arquivos do Repositório
 
 - **Banner Eco.png** — banner principal do projeto  
 - **demo.gif** — demonstração animada de abertura do modelo no Workbench  
@@ -104,7 +104,7 @@ Vendedor N:N Produto – vendedores podem disponibilizar vários produtos.
 
 ---
 
-## 🧰 Como abrir o projeto
+##  Como abrir o projeto
 
 1. Faça o download do arquivo `.mwb`
 2. Abra o MySQL Workbench
@@ -117,7 +117,7 @@ Vendedor N:N Produto – vendedores podem disponibilizar vários produtos.
 </p>
 
 ---
-## 🚀 Próximos Passos
+##  Próximos Passos
 
 - Criar modelo lógico no formato DER.
 - Gerar scripts SQL automaticamente a partir do Workbench.
@@ -128,7 +128,7 @@ Vendedor N:N Produto – vendedores podem disponibilizar vários produtos.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -136,7 +136,7 @@ Vendedor N:N Produto – vendedores podem disponibilizar vários produtos.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Este projeto foi criado para:
 
@@ -146,7 +146,7 @@ Este projeto foi criado para:
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Fabiano Ferreira**  
 🔗 [LinkedIn](https://www.linkedin.com/in/fabianoferreira-bi/)
@@ -156,7 +156,7 @@ Este projeto foi criado para:
 ---
 
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License.  
 For more details, please refer to the **LICENSE** file in the root of this repository.
