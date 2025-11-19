@@ -71,6 +71,24 @@ O sistema contém as seguintes entidades principais:
 
 ---
 
+## 🧩 Cardinalidades do Modelo
+
+Cliente 1:N Pedido – um cliente pode realizar vários pedidos.
+
+Pedido 1:N Pagamento – um pedido pode ter múltiplos registros de pagamento.
+
+Pedido 1:N Entrega – cada pedido possui informações de envio e atualização.
+
+Pedido N:N Produto – representado pela tabela intermediária de itens do pedido.
+
+Produto 1:1 Estoque – cada produto possui um registro único de estoque.
+
+Fornecedor N:N Produto – um produto pode ter vários fornecedores e vice-versa.
+
+Vendedor N:N Produto – vendedores podem disponibilizar vários produtos.
+
+---
+
 ## 📁 Arquivos do Repositório
 
 - **Banner Eco.png** — banner principal do projeto  
