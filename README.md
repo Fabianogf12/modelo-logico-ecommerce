@@ -18,15 +18,16 @@
 ## 📑 Índice
 - [Visão Geral do Modelo](#visão-geral-do-modelo)
 - [Descrição Geral](#descrição-geral)
-- [Estrutura do Banco](#estrutura-do-banco-de-dados)
-- [Cardinalidades](#cardinalidades-do-modelo)
+- [Estrutura do Banco de Dados](#estrutura-do-banco-de-dados)
+- [Cardinalidades do Modelo](#cardinalidades-do-modelo)
 - [Arquivos do Repositório](#arquivos-do-repositório)
-- [Como Abrir o Projeto](#como-abrir-o-projeto)
+- [Como abrir o projeto](#como-abrir-o-projeto)
 - [Próximos Passos](#próximos-passos)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Objetivo](#objetivo)
 - [Autor](#autor)
-- [Licença](#license)
+- [License](#license)
+
 
 
 
