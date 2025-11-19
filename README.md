@@ -127,7 +127,7 @@ Este projeto foi criado para:
 ## 👤 Autor
 
 **Fabiano Ferreira**  
-🔗 [LinkedIn](https://wwww.linkedin.com/in/fabianoferreira-bi)  
+🔗 [LinkedIn](https://www.linkedin.com/in/fabianoferreira-bi/)
 🔗 [GitHub](https://github.com/Fabianogf12)
 
 ---
