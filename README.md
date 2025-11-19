@@ -128,6 +128,7 @@ Este projeto foi criado para:
 
 **Fabiano Ferreira**  
 🔗 [LinkedIn](https://www.linkedin.com/in/fabianoferreira-bi/)
+
 🔗 [GitHub](https://github.com/Fabianogf12)
 
 ---
